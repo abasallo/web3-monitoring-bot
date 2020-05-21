@@ -6,7 +6,7 @@ Web3 Monitoring Slack Bot using Bolt
 
 In the project directory, you must copy .env.example as .env a fill as needed (e.g. SLACK_SIGNING_SECRET & SLACK_BOT_TOKEN).
 
-In the project directory, you can run:
+Also in the project directory, you can run:
 
 ### `npm install`
 
